@@ -1,11 +1,11 @@
-# Hi there 👋 I'm Hassan — Senior Backend Developer
+# Hi there 👋 I'm Hassan — Senior Software Engineer
 
 [![Profile views](https://komarev.com/ghpvc/?username=Hassanhs97&color=blue)](https://github.com/Hassanhs97)
 
 ---
 
 ## 🚀 About me
-I am a Senior Back-end Developer with 6+ years of experience building scalable, high-performance systems in fast-paced startup environments. I design, implement and operate resilient backend services (PHP / Laravel & Golang) with a focus on performance, observability, and maintainability. I enjoy solving complex problems and shipping reliable software that improves user experience and operational efficiency.
+I am a Senior senior software engineer with 6+ years of experience building scalable, high-performance systems in fast-paced startup environments. I design, implement and operate resilient backend services (PHP / Laravel & Golang) with a focus on performance, observability, and maintainability. I enjoy solving complex problems and shipping reliable software that improves user experience and operational efficiency.
 
 ---
 
