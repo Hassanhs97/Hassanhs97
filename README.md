@@ -59,7 +59,7 @@ Senior Software Engineer with 6+ years of experience building scalable, high-per
 
 ## 📊 GitHub Stats
 
-[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanhs97)](https://github.com/Hassanhs97/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassanhs97&theme=tokyonight)
 
 ---
 
